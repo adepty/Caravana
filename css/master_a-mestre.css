@@ -1,0 +1,110 @@
+#u245
+{
+	position: fixed;
+	background: transparent url("../images/bg.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u120
+{
+	-pie-box-shadow: 2px 2px 7px #9E9E9E;
+	box-shadow: 2px 2px 7px rgba(0,0,0,0.38);
+	background-color: #E67E22;
+}
+
+#u121_states
+{
+	vertical-align: top;
+	background: url("../images/u121_states.png") no-repeat 0px 0px;
+}
+
+#u121:hover #u121_states
+{
+	background: url("../images/u121_states-r.png") no-repeat 0px 0px;
+}
+
+#u121.MuseLinkActive #u121_states
+{
+	background: url("../images/u121_states-a.png") no-repeat 0px 0px;
+}
+
+#u122_states
+{
+	vertical-align: top;
+	background: url("../images/u122_states.png") no-repeat 0px 0px;
+}
+
+#u122:hover #u122_states
+{
+	background: url("../images/u122_states-r.png") no-repeat 0px 0px;
+}
+
+#u122.MuseLinkActive #u122_states
+{
+	background: url("../images/u122_states-a.png") no-repeat 0px 0px;
+}
+
+#u123_states
+{
+	vertical-align: top;
+	background: url("../images/u123_states.png") no-repeat 0px 0px;
+}
+
+#u123:hover #u123_states
+{
+	background: url("../images/u123_states-r.png") no-repeat 0px 0px;
+}
+
+#u123.MuseLinkActive #u123_states
+{
+	background: url("../images/u123_states-a.png") no-repeat 0px 0px;
+}
+
+#u124_states
+{
+	vertical-align: top;
+	background: url("../images/u124_states.png") no-repeat 0px 0px;
+}
+
+#u124:hover #u124_states
+{
+	background: url("../images/u124_states-r.png") no-repeat 0px 0px;
+}
+
+#u124.MuseLinkActive #u124_states
+{
+	background: url("../images/u124_states-a.png") no-repeat 0px 0px;
+}
+
+#u120_align_to_page,#u121,#u122,#u123,#u124,#u125
+{
+	position: relative;
+}
+
+#u125_states
+{
+	vertical-align: top;
+	background: url("../images/u125_states.png") no-repeat 0px 0px;
+}
+
+#u125:hover #u125_states
+{
+	background: url("../images/u125_states-r.png") no-repeat 0px 0px;
+}
+
+#u125.MuseLinkActive #u125_states
+{
+	background: url("../images/u125_states-a.png") no-repeat 0px 0px;
+}
+
+#u187_clip,#u200_clip
+{
+	overflow: hidden;
+}
+
+#u126,#u128,#u187,#u190,#u195,#u200,#u214
+{
+	background-color: transparent;
+	position: relative;
+}
+
